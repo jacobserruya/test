@@ -1,11 +1,11 @@
 let alunos = ["Jacob","David","Adi","Michal"]
 let grades1 = [2.0,8.7,5.5,6.0];
 let grades2 = [6.0,3.7,9.5,6.7];
-let grades3 = [5.0,7.7,5.5,7.7];
+let grades3 = [5.0,7.7,5.5,4.7];
 
 function ulha(){
 
-    document.body.innerHTML +="<h1>ULHHHAAAA</h1>"
+    document.body.innerHTML +="<h1>ULHHHAAAA2</h1>"
 }
 
 media = (n1,n2,n3)=>{return (n1+n2+n3)/3}
