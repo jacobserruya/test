@@ -1,6 +1,6 @@
 let alunos = ["Jacob","David","Adi","Michal"]
 let grades1 = [2.0,8.7,5.5,6.0];
-let grades2 = [6.0,3.7,9.5,6.7];
+let grades2 = [6.0,3.7,4.5,6.7];
 let grades3 = [5.0,7.7,5.5,4.7];
 
 function ulha(){
