@@ -28,3 +28,22 @@ for(let i in alunos ){
 
     );
 }
+
+
+window.onload = function() {
+
+    let h1 =document.getElementsByTagName("h1");
+
+    for (let h of h1){
+    h.addEventListener("click",papi);
+    }
+
+
+}
+
+function papi(e){
+
+ console.log(e.target.parentElement)
+
+} 
+
